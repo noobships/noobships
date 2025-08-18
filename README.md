@@ -1,16 +1,36 @@
-## Hi there 👋
+# Muhammad Salman Farooq ✦
 
-<!--
-**noobships/noobships** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Lead Design Engineer**  
+AI × Video Infra × DX × Open Source  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🖤 About Me
+- Obsessed with **quality & minimal design**  
+- Building **AI, Developer Tools, and Open Source projects**  
+- Inspired by Apple, Vercel, and Spotify  
+- Goal: Create things the world has **never seen**  
+
+---
+
+### ⚡ Tech Stack
+`React` · `Next.js` · `Tailwind CSS` · `shadcn/ui`  
+`Convex` · `Supabase` · `Hono`  
+`Figma` · `v0` · `Cursor` · `Notion`  
+
+---
+
+### 📂 Featured Projects
+- [**test-sentry**](https://github.com/noobships/test-sentry) — Cross-device testing tool for web developers  
+- [**reacher-x**](https://github.com/noobships/reacher-x) — (short tagline here)  
+- [**devztool-d-player**](https://github.com/noobships/devztool-d-player) — (short tagline here)  
+
+---
+
+### 🌱 Open Source
+I contribute to and maintain projects that help developers build faster, better, and cleaner.  
+
+---
+
+### 📫 Connect
+[LinkedIn](https://linkedin.com/in/yourusername) · [Email](mailto:creativecoder.crco@gmail.com)

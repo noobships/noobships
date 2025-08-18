@@ -1,4 +1,4 @@
-# Muhammad Salman Farooq ✨
+# Muhammad Salman Farooq ✓
 
 <div align="left">
 

@@ -11,15 +11,15 @@
 </div>
 
 > I'm that missing **Product** person.
-> 
+>
 > A Lead Design Engineer obsessed with quality—it's my top priority, whether I'm working solo or with teams. I'm deeply passionate about **Software Development**, **Design**, **AI**, **Developer Tools**, and **Open Source**, and I thrive on building things that others **love** to use.
-> 
+>
 > I stay ahead of the curve, always exploring what's next in tech.
 
 ## What I Do
 
 | **Focus Areas** | **Current Work** |
-|:---|:---|
+| :--- | :--- |
 | **AI-powered developer tools** | Building cross-device testing automation |
 | **Video infrastructure** | Creating enhanced video players with dubbing/captions |
 | **Developer experience** | Making complex integrations simple and intuitive |
@@ -34,14 +34,17 @@
 
 **[🅳Player](https://devztool-d-player.vercel.app/)** — Video player with multi-language dubbing, custom styling, and YouTube integration *(in development)*
 
-## Tech Stack & Tools
+## Favorite Stack
 
-| **Frontend** | **Backend & Infrastructure** | **Design & Productivity** |
+| Frontend | UI | Backend |
 |:---|:---|:---|
-| React • Next.js • TypeScript | Azure • Vercel • Mux | Figma • Notion |
-| Tailwind CSS • shadcn/ui | Playwright • AI APIs | v0 • Cursor • Linear |
+| React • Next.js | Tailwind CSS • shadcn/ui | Convex • Supabase • Hono |
 
-*Add your custom-designed tool icons here* ↑
+## Tools I Use
+
+| Design & Development | Productivity & AI |
+|:---|:---|
+| Figma • v0 • Cursor | Notion • T3 Chat |
 
 ## Philosophy
 

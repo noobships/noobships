@@ -1,4 +1,4 @@
-# Muhammad Salman Farooq ✓
+# Muhammad Salman Farooq ✨
 
 <div align="left">
 
@@ -10,41 +10,41 @@
 
 </div>
 
-> I'm that missing **Product** person obsessed with quality—building things the world has **never seen**.
+> I'm that missing **Product** person.
+> 
+> A Lead Design Engineer obsessed with quality—it's my top priority, whether I'm working solo or with teams. I'm deeply passionate about **Software Development**, **Design**, **AI**, **Developer Tools**, and **Open Source**, and I thrive on building things that others **love** to use.
+> 
+> I stay ahead of the curve, always exploring what's next in tech.
 
 ## What I Do
 
 | **Focus Areas** | **Current Work** |
 |:---|:---|
 | **AI-powered developer tools** | Building cross-device testing automation |
-| **Video infrastructure** | Optimizing streaming and processing systems |
-| **Developer experience** | Creating tools that make developers' lives easier |
-| **Open source** | Contributing to projects that help teams ship faster |
+| **Video infrastructure** | Creating enhanced video players with dubbing/captions |
+| **Developer experience** | Making complex integrations simple and intuitive |
+| **Open source** | Building tools that solve real developer problems |
 
-## Featured Project
+## Featured Projects
 
 **[⛡ TestSentry](https://github.com/noobships/test-sentry)** — Cross-device testing tool with AI-powered automation planned
 
 [![Live Demo](https://img.shields.io/badge/🚀_Try_Live-testsentry.devstool.dev-000000?style=for-the-badge)](https://testsentry.devstool.dev/)
 [![MIT License](https://img.shields.io/badge/License-MIT-white?style=for-the-badge&logo=opensourceinitiative&logoColor=black)](https://github.com/noobships/test-sentry/blob/main/LICENSE)
 
+**[🅳Player](https://devztool-d-player.vercel.app/)** — Video player with multi-language dubbing, custom styling, and YouTube integration *(in development)*
+
 ## Tech Stack & Tools
 
-| **Development** | **Design** | **Infrastructure** |
+| **Frontend** | **Backend & Infrastructure** | **Design & Productivity** |
 |:---|:---|:---|
-| React • Next.js • TypeScript | Figma • v0 • Cursor | Azure • Vercel |
-| Tailwind CSS • shadcn/ui | Notion • Linear | Playwright • AI APIs |
+| React • Next.js • TypeScript | Azure • Vercel • Mux | Figma • Notion |
+| Tailwind CSS • shadcn/ui | Playwright • AI APIs | v0 • Cursor • Linear |
 
 *Add your custom-designed tool icons here* ↑
 
 ## Philosophy
 
-**Inspired by:** Apple's attention to detail, Vercel's developer experience, Spotify's product thinking
+**Inspired by:** ⌘ Apple's attention to detail, ▲ Vercel's developer experience, ♫ Spotify's product thinking
 
-**Goal:** Create things the world has never seen—something the world has never imagined.
-
----
-
-*Building software, design systems, and developer tools. Always exploring what's next in tech.*
-
-**283 contributions** in the last year • **Open to collaboration**
+**Goal:** To build something the world has **never seen**—something the world has **never imagined**.

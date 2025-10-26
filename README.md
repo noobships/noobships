@@ -10,8 +10,6 @@
 
 </div>
 
-> I'm that missing **Product** person.
->
 > A Lead Design Engineer obsessed with quality—it's my top priority, whether I'm working solo or with teams. I'm deeply passionate about **Software Development**, **Design**, **AI**, **Developer Tools**, and **Open Source**, and I thrive on building things that others **love** to use.
 >
 > I stay ahead of the curve, always exploring what's next in tech.

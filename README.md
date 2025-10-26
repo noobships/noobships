@@ -2,7 +2,7 @@
 
 <div align="left">
 
-**Lead Design Engineer** — AI × Video Infra × DX × Open Source
+**Founder @ 🆁 ReacherX** | **Lead Design Engineer** — AI × Video Infra × DX × Open Source
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Email](https://img.shields.io/badge/Email-creativecoder.crco@gmail.com-white?style=for-the-badge&logo=gmail&logoColor=black)](mailto:creativecoder.crco@gmail.com)

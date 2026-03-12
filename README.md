@@ -2,7 +2,7 @@
 
 <div align="left">
 
-**Founder @ 🆁 ReacherX** | **Lead Design Engineer** — AI × Video Infra × DX × Open Source
+**Founder @ 🆁 ReacherX** | **Design Engineer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Email](https://img.shields.io/badge/Email-creativecoder.crco@gmail.com-white?style=for-the-badge&logo=gmail&logoColor=black)](mailto:creativecoder.crco@gmail.com)
@@ -10,7 +10,7 @@
 
 </div>
 
-> A Lead Design Engineer obsessed with quality—it's my top priority, whether I'm working solo or with teams. I'm deeply passionate about **Software Development**, **Design**, **AI**, **Developer Tools**, and **Open Source**, and I thrive on building things that others **love** to use.
+> A Design Engineer obsessed with quality—it's my top priority, whether I'm working solo or with teams. I'm deeply passionate about **Software Development**, **Design**, **AI**, **Developer Tools**, and **Open Source**, and I thrive on building things that others **love** to use.
 >
 > I stay ahead of the curve, always exploring what's next in tech.
 
